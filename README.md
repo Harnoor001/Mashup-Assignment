@@ -56,4 +56,4 @@ The API accepts the following inputs:
 
 # Submitted by - Harnoor Singh Khalsa 
 # Roll No - 102303260
-# Group - 2C21
+# Group - 3C21
